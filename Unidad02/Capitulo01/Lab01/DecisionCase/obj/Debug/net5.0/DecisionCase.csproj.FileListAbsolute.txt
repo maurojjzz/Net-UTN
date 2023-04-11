@@ -1,0 +1,16 @@
+C:\Net\Unidad02\Lab01\DecisionCase\bin\Debug\net5.0\DecisionCase.exe
+C:\Net\Unidad02\Lab01\DecisionCase\bin\Debug\net5.0\DecisionCase.deps.json
+C:\Net\Unidad02\Lab01\DecisionCase\bin\Debug\net5.0\DecisionCase.runtimeconfig.json
+C:\Net\Unidad02\Lab01\DecisionCase\bin\Debug\net5.0\DecisionCase.runtimeconfig.dev.json
+C:\Net\Unidad02\Lab01\DecisionCase\bin\Debug\net5.0\DecisionCase.dll
+C:\Net\Unidad02\Lab01\DecisionCase\bin\Debug\net5.0\ref\DecisionCase.dll
+C:\Net\Unidad02\Lab01\DecisionCase\bin\Debug\net5.0\DecisionCase.pdb
+C:\Net\Unidad02\Lab01\DecisionCase\obj\Debug\net5.0\DecisionCase.csproj.AssemblyReference.cache
+C:\Net\Unidad02\Lab01\DecisionCase\obj\Debug\net5.0\DecisionCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Net\Unidad02\Lab01\DecisionCase\obj\Debug\net5.0\DecisionCase.AssemblyInfoInputs.cache
+C:\Net\Unidad02\Lab01\DecisionCase\obj\Debug\net5.0\DecisionCase.AssemblyInfo.cs
+C:\Net\Unidad02\Lab01\DecisionCase\obj\Debug\net5.0\DecisionCase.csproj.CoreCompileInputs.cache
+C:\Net\Unidad02\Lab01\DecisionCase\obj\Debug\net5.0\DecisionCase.dll
+C:\Net\Unidad02\Lab01\DecisionCase\obj\Debug\net5.0\ref\DecisionCase.dll
+C:\Net\Unidad02\Lab01\DecisionCase\obj\Debug\net5.0\DecisionCase.pdb
+C:\Net\Unidad02\Lab01\DecisionCase\obj\Debug\net5.0\DecisionCase.genruntimeconfig.cache

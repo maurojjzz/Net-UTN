@@ -1,0 +1,16 @@
+C:\Net\Unidad02\Lab01\Iteracion\bin\Debug\net5.0\Iteracion.exe
+C:\Net\Unidad02\Lab01\Iteracion\bin\Debug\net5.0\Iteracion.deps.json
+C:\Net\Unidad02\Lab01\Iteracion\bin\Debug\net5.0\Iteracion.runtimeconfig.json
+C:\Net\Unidad02\Lab01\Iteracion\bin\Debug\net5.0\Iteracion.runtimeconfig.dev.json
+C:\Net\Unidad02\Lab01\Iteracion\bin\Debug\net5.0\Iteracion.dll
+C:\Net\Unidad02\Lab01\Iteracion\bin\Debug\net5.0\ref\Iteracion.dll
+C:\Net\Unidad02\Lab01\Iteracion\bin\Debug\net5.0\Iteracion.pdb
+C:\Net\Unidad02\Lab01\Iteracion\obj\Debug\net5.0\Iteracion.csproj.AssemblyReference.cache
+C:\Net\Unidad02\Lab01\Iteracion\obj\Debug\net5.0\Iteracion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Net\Unidad02\Lab01\Iteracion\obj\Debug\net5.0\Iteracion.AssemblyInfoInputs.cache
+C:\Net\Unidad02\Lab01\Iteracion\obj\Debug\net5.0\Iteracion.AssemblyInfo.cs
+C:\Net\Unidad02\Lab01\Iteracion\obj\Debug\net5.0\Iteracion.csproj.CoreCompileInputs.cache
+C:\Net\Unidad02\Lab01\Iteracion\obj\Debug\net5.0\Iteracion.dll
+C:\Net\Unidad02\Lab01\Iteracion\obj\Debug\net5.0\ref\Iteracion.dll
+C:\Net\Unidad02\Lab01\Iteracion\obj\Debug\net5.0\Iteracion.pdb
+C:\Net\Unidad02\Lab01\Iteracion\obj\Debug\net5.0\Iteracion.genruntimeconfig.cache
