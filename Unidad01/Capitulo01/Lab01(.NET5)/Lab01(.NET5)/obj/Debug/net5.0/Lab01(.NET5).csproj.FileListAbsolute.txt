@@ -1,0 +1,16 @@
+C:\Net\Unidad01\Capitulo01\Lab01(.NET5)\Lab01(.NET5)\bin\Debug\net5.0\Lab01(.NET5).exe
+C:\Net\Unidad01\Capitulo01\Lab01(.NET5)\Lab01(.NET5)\bin\Debug\net5.0\Lab01(.NET5).deps.json
+C:\Net\Unidad01\Capitulo01\Lab01(.NET5)\Lab01(.NET5)\bin\Debug\net5.0\Lab01(.NET5).runtimeconfig.json
+C:\Net\Unidad01\Capitulo01\Lab01(.NET5)\Lab01(.NET5)\bin\Debug\net5.0\Lab01(.NET5).runtimeconfig.dev.json
+C:\Net\Unidad01\Capitulo01\Lab01(.NET5)\Lab01(.NET5)\bin\Debug\net5.0\Lab01(.NET5).dll
+C:\Net\Unidad01\Capitulo01\Lab01(.NET5)\Lab01(.NET5)\bin\Debug\net5.0\ref\Lab01(.NET5).dll
+C:\Net\Unidad01\Capitulo01\Lab01(.NET5)\Lab01(.NET5)\bin\Debug\net5.0\Lab01(.NET5).pdb
+C:\Net\Unidad01\Capitulo01\Lab01(.NET5)\Lab01(.NET5)\obj\Debug\net5.0\Lab01(.NET5).csproj.AssemblyReference.cache
+C:\Net\Unidad01\Capitulo01\Lab01(.NET5)\Lab01(.NET5)\obj\Debug\net5.0\Lab01(.NET5).GeneratedMSBuildEditorConfig.editorconfig
+C:\Net\Unidad01\Capitulo01\Lab01(.NET5)\Lab01(.NET5)\obj\Debug\net5.0\Lab01(.NET5).AssemblyInfoInputs.cache
+C:\Net\Unidad01\Capitulo01\Lab01(.NET5)\Lab01(.NET5)\obj\Debug\net5.0\Lab01(.NET5).AssemblyInfo.cs
+C:\Net\Unidad01\Capitulo01\Lab01(.NET5)\Lab01(.NET5)\obj\Debug\net5.0\Lab01(.NET5).csproj.CoreCompileInputs.cache
+C:\Net\Unidad01\Capitulo01\Lab01(.NET5)\Lab01(.NET5)\obj\Debug\net5.0\Lab01(.NET5).dll
+C:\Net\Unidad01\Capitulo01\Lab01(.NET5)\Lab01(.NET5)\obj\Debug\net5.0\ref\Lab01(.NET5).dll
+C:\Net\Unidad01\Capitulo01\Lab01(.NET5)\Lab01(.NET5)\obj\Debug\net5.0\Lab01(.NET5).pdb
+C:\Net\Unidad01\Capitulo01\Lab01(.NET5)\Lab01(.NET5)\obj\Debug\net5.0\Lab01(.NET5).genruntimeconfig.cache
