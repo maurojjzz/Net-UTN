@@ -9,6 +9,7 @@ namespace Lab01.ParaPensar
             Console.WriteLine("Ingrese numero de ejercicio.\n1)Suma\n2)Anio Bisiesto\n3)Fibonacci\n4)Numero par\n5)Mes nombre" +
                 "\n6)Romano\n7)Numeros gemelos\n8)Algoritmo\n9)Estrella ateriscos");
             ConsoleKeyInfo opcion= Console.ReadKey();
+            Console.WriteLine();
             switch (opcion.Key)
             {
                 case ConsoleKey.D1:
@@ -18,13 +19,13 @@ namespace Lab01.ParaPensar
                     dos();
                     break;
                 case ConsoleKey.D3:
-                    Console.WriteLine("Proximamente");
+                    tres();
                     break;
                 case ConsoleKey.D4:
-                    Console.WriteLine("Proximamente");
+                    cuatro();
                     break;
                 case ConsoleKey.D5:
-                    Console.WriteLine("Proximamente");
+                    cinco();
                     break;
                 case ConsoleKey.D6:
                     Console.WriteLine("Proximamente");
@@ -33,7 +34,7 @@ namespace Lab01.ParaPensar
                     Console.WriteLine("Proximamente");
                     break;
                 case ConsoleKey.D8:
-                    Console.WriteLine("Proximamente");
+                    ocho();
                     break;
                 default:
                     Console.WriteLine("Opcion Inexistente");
@@ -59,16 +60,16 @@ namespace Lab01.ParaPensar
             if ((year%4) == 0) 
             {
                 if ((year % 100)==0)
+                {
+                    if (year % 400==0)
                     {
-                        if (year % 400==0)
-                        {
-                            Console.WriteLine("\nEs año bisiesto");
-                        }
-                        else
-                        {
-                            Console.WriteLine("\n No es año bisiesto");
-                        }
-                        }
+                        Console.WriteLine("\nEs año bisiesto");
+                    }
+                    else
+                    {
+                        Console.WriteLine("\n No es año bisiesto");
+                    }
+                }
                 else
                 {
                     Console.WriteLine("\nEs año bisiesto");
@@ -80,5 +81,85 @@ namespace Lab01.ParaPensar
                 Console.WriteLine("\n No es año bisiesto");
             }
         }
+
+        static void tres()
+        {
+            Console.WriteLine("Fibonacci");
+            int a = 0, b = 1, c=0;
+            do
+            {
+                c = a;
+                a = b;
+                b = b + c;
+                Console.Write(c+", ");
+            } while (c<300);
+            Console.Write("...\n");
+        }
+        static void cuatro()
+        {
+            Console.WriteLine("\n\n");
+            for (int i = 1; i <= 100; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    Console.Write(i + ", ");
+                }  
+            }
+            Console.WriteLine();
+        }
+
+        static void cinco()
+        {
+            string[] array = new string[] { "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre" };
+            Console.WriteLine("\nIngrese el nombre del mes: ");
+            string month = Console.ReadLine();
+            int cont = 0;
+            bool band = false;
+            foreach (var item in array)
+            {
+                if(item.Equals(month,StringComparison.CurrentCultureIgnoreCase) == true)
+                {
+                    Console.WriteLine(item +" numero del mes: "+ (cont+1));
+                     band = true;
+                }
+                else
+                {
+                    cont++;
+                }
+                if (!band && cont==11)
+                {
+                    Console.WriteLine("\nERROR! Verifique como escribio el mes");
+                }
+            }
+
+        }
+
+        static void ocho()
+        {
+            string clave = "NetUTN";
+            int tries = 0;
+            string claveAttempt = "";
+            while (tries < 5)
+            {
+                tries++;
+                Console.WriteLine("\nIntroduzca la clave:");
+                claveAttempt = Console.ReadLine();
+                if (claveAttempt.Equals(clave))
+                {
+                    Console.WriteLine("Clave Correcta");
+                    tries = 10;
+                }
+                else
+                {
+                    Console.WriteLine("Clave incorrecta");
+                }
+
+            }
+
+        }
+
+
+
+
     }
 }
