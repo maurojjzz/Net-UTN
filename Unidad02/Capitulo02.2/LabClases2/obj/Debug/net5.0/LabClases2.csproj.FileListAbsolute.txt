@@ -1,0 +1,15 @@
+C:\Net\Unidad02\Capitulo02.2\LabClases2\bin\Debug\net5.0\LabClases2.deps.json
+C:\Net\Unidad02\Capitulo02.2\LabClases2\bin\Debug\net5.0\LabClases2.dll
+C:\Net\Unidad02\Capitulo02.2\LabClases2\bin\Debug\net5.0\ref\LabClases2.dll
+C:\Net\Unidad02\Capitulo02.2\LabClases2\bin\Debug\net5.0\LabClases2.pdb
+C:\Net\Unidad02\Capitulo02.2\LabClases2\obj\Debug\net5.0\LabClases2.csproj.AssemblyReference.cache
+C:\Net\Unidad02\Capitulo02.2\LabClases2\obj\Debug\net5.0\LabClases2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Net\Unidad02\Capitulo02.2\LabClases2\obj\Debug\net5.0\LabClases2.AssemblyInfoInputs.cache
+C:\Net\Unidad02\Capitulo02.2\LabClases2\obj\Debug\net5.0\LabClases2.AssemblyInfo.cs
+C:\Net\Unidad02\Capitulo02.2\LabClases2\obj\Debug\net5.0\LabClases2.csproj.CoreCompileInputs.cache
+C:\Net\Unidad02\Capitulo02.2\LabClases2\obj\Debug\net5.0\LabClases2.dll
+C:\Net\Unidad02\Capitulo02.2\LabClases2\obj\Debug\net5.0\ref\LabClases2.dll
+C:\Net\Unidad02\Capitulo02.2\LabClases2\obj\Debug\net5.0\LabClases2.pdb
+C:\Net\Unidad02\Capitulo02.2\LabClases2\bin\Debug\net5.0\Clases.dll
+C:\Net\Unidad02\Capitulo02.2\LabClases2\bin\Debug\net5.0\Clases.pdb
+C:\Net\Unidad02\Capitulo02.2\LabClases2\obj\Debug\net5.0\LabClases2.csproj.CopyComplete
